@@ -1,0 +1,113 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Dylan\\Documents\\GitHub\\FollowSpace2.3\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bg\\values-bg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-composer-3.1.1.aar\\64dd3abef128b08e1c8b12c149137a4c\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,114,166",
+                        "endColumns": "58,51,51",
+                        "endOffsets": "109,161,213"
+                    },
+                    "to": {
+                        "startLines": "36,41,44",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2885,3197,3338",
+                        "endColumns": "58,51,51",
+                        "endOffsets": "2939,3244,3385"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-core-3.1.1.aar\\cf56a6afed21b2248a3ab438a086f4f8\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "3136",
+                        "endColumns": "60",
+                        "endOffsets": "3192"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9b7ad87936dee0b71477223fbab8397e\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,281,409,516,621,707,812,933,1012,1090,1173,1287,1396,1496,1610,1716,1824,1947,2046,2129",
+                        "endColumns": "114,110,127,106,104,85,104,120,78,77,82,113,108,99,113,105,107,122,98,82,100",
+                        "endOffsets": "165,276,404,511,616,702,807,928,1007,1085,1168,1282,1391,1491,1605,1711,1819,1942,2041,2124,2225"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "513,628,739,867,974,1079,1165,1270,1391,1470,1548,1631,1745,1854,1954,2068,2174,2282,2405,2701,2784",
+                        "endColumns": "114,110,127,106,104,85,104,120,78,77,82,113,108,99,113,105,107,122,98,82,100",
+                        "endOffsets": "623,734,862,969,1074,1160,1265,1386,1465,1543,1626,1740,1849,1949,2063,2169,2277,2400,2499,2779,2880"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\d082bdd265a289178c50b6cb1e24ebd3\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "196",
+                        "endOffsets": "481"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "2504",
+                        "endColumns": "196",
+                        "endOffsets": "2696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-3.1.1.aar\\3165f920bc3249a62483446c1dd207f4\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,189,326,463,525,591,655,699,744,794,865,976,1051,1114,1190",
+                        "endLines": "5,9,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "endColumns": "14,14,14,61,65,63,43,44,49,70,110,74,62,75,66",
+                        "endOffsets": "184,321,458,520,586,650,694,739,789,860,971,1046,1109,1185,1252"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,37,38,39,42,43,46,47,48,49,50,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,239,376,2944,3006,3072,3249,3293,3471,3521,3592,3703,3778,3906,3982",
+                        "endLines": "5,9,13,37,38,39,42,43,46,47,48,49,50,52,53",
+                        "endColumns": "14,14,14,61,65,63,43,44,49,70,110,74,62,75,66",
+                        "endOffsets": "234,371,508,3001,3067,3131,3288,3333,3516,3587,3698,3773,3836,3977,4044"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-mopub-3.1.1.aar\\7019c6bcc274d75fe66d9e7dbf0c98cc\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,136",
+                        "endColumns": "80,64",
+                        "endOffsets": "131,196"
+                    },
+                    "to": {
+                        "startLines": "45,51",
+                        "startColumns": "4,4",
+                        "startOffsets": "3390,3841",
+                        "endColumns": "80,64",
+                        "endOffsets": "3466,3901"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Dylan\\Documents\\GitHub\\FollowSpace2.3\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\e620126737469646e2d1a520d6bd3b89\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "157",
+                        "endOffsets": "446"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "2318",
+                        "endColumns": "157",
+                        "endOffsets": "2471"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-core-3.1.1.aar\\84d17bb821d5cefaad2a81ace2945f72\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "2859",
+                        "endColumns": "56",
+                        "endOffsets": "2911"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-composer-3.1.1.aar\\77246ad5427864aa17eac249650976b3\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,111,163",
+                        "endColumns": "55,51,45",
+                        "endOffsets": "106,158,204"
+                    },
+                    "to": {
+                        "startLines": "36,41,44",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2655,2916,3049",
+                        "endColumns": "55,51,45",
+                        "endOffsets": "2706,2963,3090"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-3.1.1.aar\\8130c9c9312a5b97d254bb93690b812c\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,187,318,449,497,546,597,638,678,742,806,848,910,1014,1088,1137,1213",
+                        "endLines": "5,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "endColumns": "14,14,14,47,48,50,40,39,63,63,41,61,103,73,48,75,48",
+                        "endOffsets": "182,313,444,492,541,592,633,673,737,801,843,905,1009,1083,1132,1208,1257"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,37,38,39,42,43,46,47,48,49,50,51,52,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,237,368,2711,2759,2808,2968,3009,3158,3222,3286,3328,3390,3494,3568,3668,3744",
+                        "endLines": "5,9,13,37,38,39,42,43,46,47,48,49,50,51,52,54,55",
+                        "endColumns": "14,14,14,47,48,50,40,39,63,63,41,61,103,73,48,75,48",
+                        "endOffsets": "232,363,494,2754,2803,2854,3004,3044,3217,3281,3323,3385,3489,3563,3612,3739,3788"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-mopub-3.1.1.aar\\98df89c137a3b0655cfdb79af6d4001e\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,118",
+                        "endColumns": "62,50",
+                        "endOffsets": "113,164"
+                    },
+                    "to": {
+                        "startLines": "45,53",
+                        "startColumns": "4,4",
+                        "startOffsets": "3095,3617",
+                        "endColumns": "62,50",
+                        "endOffsets": "3153,3663"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\730575370ec7561809b98dc5e5b0b311\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,258,381,476,576,658,755,861,937,1013,1091,1187,1283,1378,1475,1570,1668,1780,1874,1952",
+                        "endColumns": "95,106,122,94,99,81,96,105,75,75,77,95,95,94,96,94,97,111,93,77,100",
+                        "endOffsets": "146,253,376,471,571,653,750,856,932,1008,1086,1182,1278,1373,1470,1565,1663,1775,1869,1947,2048"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "499,595,702,825,920,1020,1102,1199,1305,1381,1457,1535,1631,1727,1822,1919,2014,2112,2224,2476,2554",
+                        "endColumns": "95,106,122,94,99,81,96,105,75,75,77,95,95,94,96,94,97,111,93,77,100",
+                        "endOffsets": "590,697,820,915,1015,1097,1194,1300,1376,1452,1530,1626,1722,1817,1914,2009,2107,2219,2313,2549,2650"
+                    }
+                }
+            ]
+        }
+    ]
+}

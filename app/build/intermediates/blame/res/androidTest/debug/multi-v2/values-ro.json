@@ -1,0 +1,113 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Dylan\\Documents\\GitHub\\FollowSpace2.3\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ro\\values-ro.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\730575370ec7561809b98dc5e5b0b311\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,176,284,407,511,624,712,824,945,1030,1111,1194,1306,1419,1519,1633,1738,1844,1965,2068,2151",
+                        "endColumns": "120,107,122,103,112,87,111,120,84,80,82,111,112,99,113,104,105,120,102,82,100",
+                        "endOffsets": "171,279,402,506,619,707,819,940,1025,1106,1189,1301,1414,1514,1628,1733,1839,1960,2063,2146,2247"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,34,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "505,626,734,857,961,1074,1162,1274,1395,1480,1561,1644,1756,1869,1969,2083,2188,2294,2415,2722,2805",
+                        "endColumns": "120,107,122,103,112,87,111,120,84,80,82,111,112,99,113,104,105,120,102,82,100",
+                        "endOffsets": "621,729,852,956,1069,1157,1269,1390,1475,1556,1639,1751,1864,1964,2078,2183,2289,2410,2513,2800,2901"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-composer-3.1.1.aar\\77246ad5427864aa17eac249650976b3\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,117,169",
+                        "endColumns": "61,51,57",
+                        "endOffsets": "112,164,222"
+                    },
+                    "to": {
+                        "startLines": "36,41,44",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2906,3229,3367",
+                        "endColumns": "61,51,57",
+                        "endOffsets": "2963,3276,3420"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-3.1.1.aar\\8130c9c9312a5b97d254bb93690b812c\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,189,322,455,516,580,645,689,731,798,864,916,989,1104,1183,1246,1322",
+                        "endLines": "5,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "endColumns": "14,14,14,60,63,64,43,41,66,65,51,72,114,78,62,75,67",
+                        "endOffsets": "184,317,450,511,575,640,684,726,793,859,911,984,1099,1178,1241,1317,1385"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,37,38,39,42,43,46,47,48,49,50,51,52,54,55",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,239,372,2968,3029,3093,3281,3325,3512,3579,3645,3697,3770,3885,3964,4105,4181",
+                        "endLines": "5,9,13,37,38,39,42,43,46,47,48,49,50,51,52,54,55",
+                        "endColumns": "14,14,14,60,63,64,43,41,66,65,51,72,114,78,62,75,67",
+                        "endOffsets": "234,367,500,3024,3088,3153,3320,3362,3574,3640,3692,3765,3880,3959,4022,4176,4244"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\e620126737469646e2d1a520d6bd3b89\\res\\values-ro\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "203",
+                        "endOffsets": "488"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "2518",
+                        "endColumns": "203",
+                        "endOffsets": "2717"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-mopub-3.1.1.aar\\98df89c137a3b0655cfdb79af6d4001e\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,142",
+                        "endColumns": "86,77",
+                        "endOffsets": "137,215"
+                    },
+                    "to": {
+                        "startLines": "45,53",
+                        "startColumns": "4,4",
+                        "startOffsets": "3425,4027",
+                        "endColumns": "86,77",
+                        "endOffsets": "3507,4100"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dylan\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-core-3.1.1.aar\\84d17bb821d5cefaad2a81ace2945f72\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "70",
+                        "endOffsets": "121"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "3158",
+                        "endColumns": "70",
+                        "endOffsets": "3224"
+                    }
+                }
+            ]
+        }
+    ]
+}
